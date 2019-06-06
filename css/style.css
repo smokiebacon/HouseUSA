@@ -125,6 +125,14 @@ img {
     text-align: center;
 }
 
+/* Container */
+.container {
+    max-width: 70%;
+    margin: auto; /* puts stuff in middle */
+    overflow: hidden;
+    padding: 0 2rem; /* top and bottom 0, right left 2rem; */
+}
+
 /* Buttons */
 .btn {
     display: inline-block;

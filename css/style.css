@@ -125,6 +125,21 @@ img {
     text-align: center;
 }
 
+.tabs .container > div { /* this targets each div within tabs container */
+    padding: 1.5rem 0; /* remember, top and bot affected */
+}
+
+.tabs .container > div:hover {
+    color: white;
+    cursor: pointer; 
+}
+
+.tabs p {
+    font-size: 1.2rem;
+    padding-top: 0.5rem;
+}
+
+
 /* Container */
 .container {
     max-width: 70%;

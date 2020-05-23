@@ -316,6 +316,10 @@ img {
     text-transform: uppercase; /* bestpractice: do this instead of ALL CAPS in HTML*/
 }
 
+.btn-icon {
+    margin-left: 1rem;
+}
+
 
 @media(max-width:700px) {
     #tab-1-content .tab-1-content-inner {

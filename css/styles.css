@@ -10904,7 +10904,7 @@ li {
 }
 section#contact {
   background-color: #212529;
-  background-image: url('../assets/img/map-image.png');
+  background-image: url('../assets/img/gold-background.jpg');
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -10917,7 +10917,7 @@ section#contact {
   ;
 }
 section#contact {
-  color: lightblue;
+  color: black;
   text-align: center;
   font-weight: 700;
   line-height: 3.25rem;
